@@ -1,0 +1,15 @@
+DBPATH:sanantonio_cosa_tx~PATH:E:\Work\Adcomp\Report\PayAllEasy_SANANTONIO_COSA_TX_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:freeport_tx~PATH:E:\Work\Adcomp\Report\PayAllEasy_Freeport_TX_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:boston_ma~PATH:E:\Work\Adcomp\Report\PayAllEasy_Boston_MA_Upgrade_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:elreno_ok~PATH:E:\Work\Adcomp\WebBasedKiosk\Jack18\PayAllEasy_ELReno_OK_Jack18\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:asheboro_nc~PATH:E:\Work\Adcomp\WebBasedKiosk\Jack18\PayAllEasy_Asheboro_NC_Jack18\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:logansport_in~PATH:E:\Work\Adcomp\Report\PayAllEasy_Logansport_IN_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:terrell_tx~PATH:E:\Work\Adcomp\WebBasedKiosk\Jack18\PayAllEasy_Terrell_TX_Jack18\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:starkville_ms~PATH:E:\Work\Adcomp\WebBasedKiosk\Jack22\PayAllEasy_Starkville_MS_jack22\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:katy_tx~PATH:E:\Work\Adcomp\WebBasedKiosk\Jack18\PayAllEasy_Katy_TX_Jack18\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:cincinnati_vr~PATH:E:\Work\Adcomp\Report\PayAllEasy_Cincinnati_VR_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:gibsland_la~PATH:E:\Work\Adcomp\Report\PayAllEasy_Gibsland_LA_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:gtams_ontario_ca~PATH:E:\Work\Adcomp\GTAMS\PayAllEasy_GTAMS_Ontario_CA_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:chesterfieldcounty_va~PATH:E:\Work\Adcomp\WebBasedKiosk\Jack18\PayAllEasy_ChesterfieldCounty_VA_Jack18\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:edinburgutilities_tx~PATH:E:\Work\Adcomp\Report\PayAllEasy_EdinburgUtilities_TX_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+
