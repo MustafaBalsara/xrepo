@@ -1,0 +1,103 @@
+checked Adcompgit,Newinblue & Graficali git status.
+Helped Viraj verify reverted changes.
+Helped faizan in verifying changes after branch merger.
+Co-ordinated with Sandesh for Quzyn app testing.
+Visual studio 2026 installation on local machine for troubleshooting
+Checked and documented schema merges and pushes.
+
+
+00000011 00101001 10001111 11011110 
+00001010 11001000 11100111 01011011
+11111000 01010111 11111111 10011000
+
+
+
+
+
+
+payment entry ??
+How is the master (eg product master) synced across erps and orizer software.
+how is profit loss calculated?
+where is the outstanding shown, for eg if the customer has paid partial amount, where will the outstanding amount shown.
+any income entries done in tally?
+Orizer reports to be asked.
+stock ledger
+Vendors Report if any
+Purchase Report
+sales Report
+Job Works report
+when  a GRN is done at factory level is it done across a PO ?? if yes then how... as factory doesnt have any info about PO how the PO info is transferred to Factory?
+similarly outwards of Finished Goods...
+how it is been maintained at both Softwares
+understand the linkage of master and payments between orizer and our Sales ERp
+
+
+
+
+factory erp purchase po mrn making.
+
+payment  
+posting sales and purchase.
+no sync.
+profir loss tally 
+income tally.
+
+
+
+
+
+
+
+
+
+DBPATH:RIOGRANDE_TX_NIB~PATH:E:\Work\GraficaliSolutions\TOTG_RioGrande_TX_Reports\Databasescriptbackup
+DBPATH:EDCOUCH_TX_NIB~PATH:E:\Work\GraficaliSolutions\TOTG_EdcouchTX_Reports\Databasescriptbackup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2115
+
+PayAllEasy_iNovahPublicAPI_Tax_APIDLL
+
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+
+
+
+
+AutosendapprovedFiles
+approvedfiles
+CourtWorkingDatesFiles
+CrystalReport\QRicketPDF
+DemoZPLPdf
+MediaDoc
+OffenseCodeTemp
+OfficerPhotos -- keep 0 and default
+QRCodeImage
+StreetDetailsTemp
+WindowsApplicationSetup
+ZPLPdf
+totg.apk
