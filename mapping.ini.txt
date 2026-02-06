@@ -11,5 +11,5 @@ DBPATH:cincinnati_vr~PATH:E:\Work\Adcomp\Report\PayAllEasy_Cincinnati_VR_Reports
 DBPATH:gibsland_la~PATH:E:\Work\Adcomp\Report\PayAllEasy_Gibsland_LA_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
 DBPATH:gtams_ontario_ca~PATH:E:\Work\Adcomp\GTAMS\PayAllEasy_GTAMS_Ontario_CA_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
 DBPATH:chesterfieldcounty_va~PATH:E:\Work\Adcomp\WebBasedKiosk\Jack18\PayAllEasy_ChesterfieldCounty_VA_Jack18\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
-DBPATH:edinburgutilities_tx~PATH:E:\Work\Adcomp\Report\PayAllEasy_EdinburgUtilities_TX_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver15
+DBPATH:edinburgutilities_tx~PATH:E:\Work\Adcomp\Report\PayAllEasy_EdinburgUtilities_TX_Reports\Databasescriptbackup~Instance:14graficali-pc_mssqlserver152
 
